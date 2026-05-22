@@ -21,8 +21,8 @@ A simple terminal-based password manager built in Python that allows users to se
 ## ▶️ How to Run
 
 ```bash
-git clone https://github.com/your-username/password-manager.git
-cd password-manager
+git clone https://github.com/Mr-Nils/Password-Manager-using-Python-Beginner-level-.git
+cd Password-Manager-using-Python-Beginner-level
 python app.py
 ```
 
